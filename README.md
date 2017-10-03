@@ -4,11 +4,8 @@ This project was created as part of my coursework for the Udacity [Full Stack We
 
 ## Getting Started
 
-To get started, install python if you don't already have it
-
-### For Windows
-
-### For Mac/Linux
+To get started, install [python](https://www.python.org/downloads/) if you don't already have it
+ 
 
 
 
