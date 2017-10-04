@@ -9,28 +9,18 @@ This project was created as part of my coursework for the Udacity [Full Stack We
 
 1. Install [python](https://www.python.org/downloads/) if you don't already have it.
 
-2. Download or clone this repo into a folder on your computer.
-
+2. Clone this repository into a folder on your computer.
 ```
-# Clone this repository
 $ git clone https://github.com/sigwaveLabs/fresh_tomatoes.git
 ```
 3. Change to the fresh_tomatoes directory
-# Go into the repository
+```
 $ cd fresh_tomatoes
 ```
-4. Rune the App
+4. Run the App
 ```
-# Run th App
 $ python entertainment_center.py
 ```
-
-
-```
-
-3. Navigate to your clone and type> python entertainment_center.py
-
-
 
 
 
