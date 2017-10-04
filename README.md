@@ -14,13 +14,11 @@ This project was created as part of my coursework for the Udacity [Full Stack We
 $ git clone https://github.com/sigwaveLabs/fresh_tomatoes.git
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd fresh_tomatoes
 
-# Install dependencies
-$ npm install
+# Run th App
+$ python entertainment_center.py
 
-# Run the app
-$ npm start
 
 ```
 
