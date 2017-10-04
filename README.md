@@ -1,5 +1,5 @@
 # Fresh Tomatoes
-![](https://img.shields.io/badge/style-plastic-green.svg?python=2.7)
+
 
 This project was created as part of my coursework for the Udacity [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004). The project is a basic website that contains information about my favorite movies. The youtube movie trailer will pop-up and play when the movies are clicked. The goal of this project is to show how to use classes in python to create instances by passinging in parameters.
 
