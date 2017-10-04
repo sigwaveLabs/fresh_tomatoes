@@ -9,8 +9,8 @@ This project was created as part of my coursework for the Udacity [Full Stack We
 
 ### Prerequisites
 
-A Computer
-Python
+A computer
+ with python installed.
 
 
 
