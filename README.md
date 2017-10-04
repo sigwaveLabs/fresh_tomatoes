@@ -28,12 +28,26 @@ $ cd fresh_tomatoes
 ```
 $ python entertainment_center.py
 ```
+## Add your own movies.
 
+1. Open entertainment_center.py
+
+2. Add your movie in this format.
+```
+the_castle = media.Movie("The Castle", # movie name
+                               "1997", # release year
+                                  "R", # rating 
+                             "Comedy", # genre
+                             "A working-class family from Melbourne, Australia fights city hall after being told they must vacate their beloved family home to allow for infrastructural expansion.", # storyline
+                             "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1MTk5Mzk0M15BMl5BanBnXkFtZTYwMzgxNjQ5._V1_SX300.jpg", # movie poster link
+                             "https://www.youtube.com/watch?v=rpqT_l7QcBM" # youtube trailer link
+                        )
+
+```
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Marcus Keenan** - *Initial work* - [SigwaveLabs](https://github.com/SigwaveLabs)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -41,8 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Udacity
 
 
