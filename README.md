@@ -5,9 +5,24 @@ This project was created as part of my coursework for the Udacity [Full Stack We
 
 ## Getting Started
 
+
+
 1. Install [python](https://www.python.org/downloads/) if you don't already have it.
 
 2. Download or clone this repo into a folder on your computer.
+```# Clone this repository
+$ git clone https://github.com/sigwaveLabs/fresh_tomatoes.git
+
+# Go into the repository
+$ cd electron-markdownify
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+
+```
 
 3. Navigate to your clone and type> python entertainment_center.py
 
