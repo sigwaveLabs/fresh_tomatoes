@@ -1,22 +1,20 @@
 import webbrowser
 
-<<<<<<< HEAD
-class Movie():
-    
-    
-    def __init__(self, movie_title, movie_year, movie_rating, movie_genre, movie_storyline, poster_image, trailer_youtube):
-        """Creates an instance of the movie class.
-
-=======
 
 class Movie():
 
-    def __init__(self, movie_title,
-                 movie_year, movie_rating,
-                 movie_genre, movie_storyline,
-                 poster_image, trailer_youtube):
+    def __init__(
+            self,
+            movie_title,
+            movie_year,
+            movie_rating,
+            movie_genre,
+            movie_storyline,
+            poster_image,
+            trailer_youtube
+            ):
         """Creates an instance of the movie class.
->>>>>>> fb32fefc87a1f52356a56714281c684879841a90
+
         Args:
             movie_title: The title of the movie.
             movie_year: The year the movie was released.
@@ -25,16 +23,10 @@ class Movie():
             movie_storyline: The plot or storyline of the movie.
             poster_image: A link to the movie poster image.
             trailer_youtube: A link to the youtube movie trailer.
-<<<<<<< HEAD
 
         Returns:
             A movie object instance.
-        """           
-=======
-        Returns:
-            A movie object instance.
         """
->>>>>>> fb32fefc87a1f52356a56714281c684879841a90
         self.title = movie_title
         self.year = movie_year
         self.rating = movie_rating
@@ -44,10 +36,6 @@ class Movie():
         self.trailer_youtube_url = trailer_youtube
 
     def show_trailer(self):
-<<<<<<< HEAD
-        """Opens youtube trailer for movie"""       
-=======
         """Opens youtube trailer for movie"""
->>>>>>> fb32fefc87a1f52356a56714281c684879841a90
 
         webbrowser.open(self.trailer_youtube_url)
