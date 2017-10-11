@@ -34,14 +34,18 @@ $ python entertainment_center.py
 
 2. Add your movie in this format.
 ```
-the_castle = media.Movie("The Castle", # movie name
-                               "1997", # release year
-                                  "R", # rating 
-                             "Comedy", # genre
-                             "A working-class family from Melbourne, Australia fights city hall after being told they must vacate their beloved family home to allow for infrastructural expansion.", # storyline
-                             "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1MTk5Mzk0M15BMl5BanBnXkFtZTYwMzgxNjQ5._V1_SX300.jpg", # movie poster link
-                             "https://www.youtube.com/watch?v=rpqT_l7QcBM" # youtube trailer link
-                        )
+the_goonies = media.Movie(
+    "The Goonies",
+    "1985",
+    "PG",
+    "Adventure",
+    "In order to save their home from foreclosure, "
+    "a group of misfits set out to find a pirate's "
+    "ancient valuable treasure.",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BOTlmMWU5YTQtOWMxMi00OWE0LTg2MDItMjEyZDBjNWY0NDdhL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",  # noqa
+    "https://www.youtube.com/watch?v=hJ2j4oWdQtU"
+    )
+
 
 ```
 ## Authors
