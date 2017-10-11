@@ -1,4 +1,3 @@
-
 import media
 import fresh_tomatoes
 
@@ -87,4 +86,3 @@ movies = [
 
 
 fresh_tomatoes.open_movies_page(movies)  # launch movie web site
-
